@@ -8,7 +8,7 @@
 /*
  Nogle af de gode ting ved at bruge Javascript som backend language er:
 
- * Man kan bruge callbacks, det vil sige man kan let smide en funktion ind som et parameter, med simpel syntaks.
+ * Man kan bruge callbacks med simpel syntaks.
  */
 
 
