@@ -39,11 +39,11 @@
 
 
 /*
- Express er et godt framework til at lave webudvikling og mobilapplikationer. Det er nemt at bruge.
+ Pros: Express er et godt framework til at lave webudvikling og mobilapplikationer. Det er nemt at bruge.
  Node.js er ligeledes let at bruge, det er eventdriven og non-blocking. Plus det er open-source hvilket vil sige
  der er mange moduler man kan tage i brug.
 
-
+ Cons: risiko for fejl i typer ( uden typescript).
  */
 
 
@@ -54,7 +54,11 @@
 // Question 3 - Explain, using relevant examples, about testing JavaScript code, relevant packages ---------------------
 // (Mocha etc.) and how to test asynchronous code.
 
-//I test mappen tester vi asynkron kode, samt andre eksempler, ved hjælp af Mocha.
+//I test mappen tester vi asynkron kode, samt andre eksempler, ved hjælp af Mocha. På ex2tests.js
+
+
+
+
 
 
 // Question 4 - Explain, using a relevant examples, your strategy for implementing a REST-API with ---------------------
@@ -64,7 +68,14 @@
 //Se testAfApi.js for vores api tests. Husk at køre server på test/api.js
 
 
+
+
+
 // Question 5 - Explain, using relevant examples, different ways to mock out databases, HTTPrequest etc. ---------------
+
+
+
+
 
 
 // Question 6 - Explain, using relevant examples, the Express concept; middleware. -------------------------------------
