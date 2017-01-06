@@ -73,7 +73,7 @@
 
 // Question 5 - Explain, using relevant examples, different ways to mock out databases, HTTPrequest etc. ---------------
 
-
+// we mocked up the database in the previous example with HTTPrequests using all four CRUD operations.
 
 
 
